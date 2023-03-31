@@ -1,0 +1,33 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.15 | Programowanie w środowisku Android | 
+/wykład , laboratorium/ | dr inż. Tomasz Grześ | 302 
+11.30 -13.00 | Programowanie w języku Python | 
+/wykład konwersatoryjny, przedmiot do 
+wyboru / dr Aneta Polewko -Klim | 302 
+13.15 -14.45 | Zaawansowane programowanie w języku 
+Python | 
+/wykład konwersatoryjny, przedmiot do 
+wyboru/ | dr Aneta Polewko -Klim | 302 
+15.00 -18.15 | Technologie chmurowe w środowisku JAVA | 
+/wykład, laboratorium/ | mgr inż. Mirosław Najbuk | 305[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.00 | Zaawansowane programowanie w JAVA | 
+/wykład, laboratorium/ | mgr inż. Piotr Wykowski | 302 
+11.15 -14.15 | Frameworki MVC | 
+/wykład, laboratorium/ | mgr inż. Piotr Wykowski | 302 
+14.20 -17.20 | Technologia Java Enterprise Edition | 
+/wykład, laboratorium/ | inż. Michał Korwel | 302 
+17.25 -18.55 | Seminarium dyplomowe | prof. WSE dr hab. Waldemar 
+Rakowski |  
+mgr inż. Mirosław Najbuk | 
+ 306 
+ 
+[/table]
+[/col]
+[/row]

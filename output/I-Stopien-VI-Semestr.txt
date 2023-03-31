@@ -1,0 +1,7 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | prowadzący | Sala | Przedmiot | prowadzący | Sala | UWAGI 
+13.15 -14.45 | Seminarium dyplomowe | dr Andrzej Dzun | 110 
+[/table]
+[/col]
+[/row]

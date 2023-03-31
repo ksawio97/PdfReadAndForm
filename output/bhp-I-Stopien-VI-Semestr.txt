@@ -1,0 +1,52 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -9.30 | Informatyka w zarządzaniu ryzykiem | 
+/laboratorium/ | 
+wg dat: 1.04 , 29.04. 2023 | mgr Grażyna Pawelec | 205 
+8.00 -9.30 | Metodyka szkoleń bhp /konwersatorium/ | 
+wg dat: 4.03, 18.03, | 13.05, | 3.06 .2023 | mgr inż. Krzysztof Rogoziński | 205 
+9.45 -11.15 | Metodologia pisania prac dyplomowych /wykład/ | 
+wg dat: 4.03, 1.04, | 29.04 .2023 | prof. WSE dr Bogumiła 
+Powichrowska | 205 
+9.45 -11.15 | Informatyka w zarządzaniu ryzykiem /laboratorium/ | 
+wg dat: 18.03, 13.05, 3.06, | 17.06. 2023 | 
+(2 godz. VIII zjazd) | mgr Grażyna Pawelec | 205 
+11.30 -13.00 | Bezpieczeństwo przesyłu cieczy i gazów | 
+/laboratorium/ | dr hab. Marek Jałbrzykowski | 205 
+13.15 -14.45 | Materiały niebezpieczne | 
+/laboratorium/ | dr hab. Marek Jałbrzykowski | 205 
+15.00 -16.30 | Metodologia pisania prac dyplomowych /wykład/ | 
+wg dat: 29.04,13.05, 3.06, 17.06. 2023 | dr hab. Marek Jałbrzykowski | 205 
+15.00 -16.30 | Seminarium dyplomowe | 
+wg dat: 4.03, 18.03, 1.04, 2023 | 
+(1 godz. VIII zjazd) | dr hab. Marek Jałbrzykowski | 205 
+16.45 -20.00 | Badanie wypadków przy pracy i chorób 
+zawodowych /wykład , ćwiczenia/ | 
+wg dat: 4.03, 18.03, 1.04, 29.04.2022 | 
+w dniu 13.05.2023 w godz. 16.00 -20.00 | inż. Waldemar Krupa | 205[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.15 | Zasady i środki ochrony indywidualnej 
+/laboratorium/ | 
+wg dat: 4.06, 18.06.2023 |  
+(6 godz. VIII zjazd) | inż. Waldemar Krupa | 214 
+8.00 -9.30 | Metodyka szkoleń bhp /konwersatorium/ | 
+w dniu 2.04, 30.04 .2023 |  
+(2 godz. VIII zjazd) | mgr inż. Krzysztof Rogoziński | 214 
+9.45 -11.15 | Seminarium dyplomowe | 
+wg dat: 2.04 , 30.04. 2023 | 
+(3 godz. VIII zjazd) | dr Justyna Chwiećko | 214 
+8.00 -11.15 | Bezpieczeństwo pracy w medycynie 
+/konwersatorium/ | 
+wg dat: 5.03, 19.03, 14.05.2023 | 
+(2 godz. VIII zjazd) | dr Justyna Chwiećko | 214 
+11.30 -13.00 | Bezpieczeństwo pracy w rolnictwie i leśnictwie 
+/laboratorium/ | dr Justyna Chwiećko | 214 
+13.15 -14.45 | Podstawy medycyny pracy | 
+/konwersatorium/ | dr Justyna Chwiećko | 2[/table]
+[/col]
+[/row]

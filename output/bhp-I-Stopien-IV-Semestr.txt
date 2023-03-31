@@ -1,0 +1,57 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.15 | Psychologia i socjologia pracy | 
+/konwersatorium / 
+wg dat: 4.03, 1.04, 13.05 | 
+w dniu 17 .06.2023 | w godz. 9.45 -11.15 | dr Wojciech Wądołowski | 
+214 
+8.00 -11.15 | Sposoby i metody likwidacji pożarów | 
+/laboratorium/ | 
+wg dat: 18.03, 29.04 , 3.06. 2023 mgr Jan Trofimiuk | 
+214 
+11.30 -13.00 | Etyka zawodowa | 
+/konwersatorium/ | dr Radosław Galicki | 214 
+13.15 -14.45 | Choroby cywilizacyjne | 
+/konwersatorium, przedmiot do wyboru/ | dr Justyna Chwiećko | 215 
+15.00 -16.30 | Prawne aspekty prowadzenia dokumentacji 
+pracowniczej | 
+/konwersatorium, przedmiot do wyboru/ | dr Radosław Galicki | 
+214 
+16.45 -18.15 | Profilaktyka pożarowa /konwersatorium, przedmiot 
+do wyboru/ | 
+w dniu 18.03.2023 | mgr Jan Trofimiuk | 
+214 
+16.45 -18.15 | Sposoby i metody likwidacji pożarów | 
+/laboratorium/ | 
+w dniu 4.03.2023 | mgr Jan Trofimiuk | 
+214 
+16.45 -20.00 | Metody analizy ryzyka zawodowego | 
+/wykład, ćwiczenia, laboratorium / | 
+wg dat: 03.06, 17.06.2023 | inż. Waldemar Krupa | 
+214[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.15 | Metody analizy ryzyka zawodowego | 
+/wykład, ćwiczenia, laboratorium / | 
+wg dat: 5.03, 19.03 .2023 | inż. Waldemar Krupa | 205 
+8.45 -12.00 | Metody analizy ryzyka zawodowego | 
+/wykład, ćwiczenia, laboratorium / | 
+wg dat: 2.04, 30.04, 14.05.2023 | inż. Waldemar Krupa | 205 
+8.45 -12.00 | Podstawy budowy maszyn i urządzeń 
+mechanicznych /wykład, ćwiczenia, laboratorium / | 
+w dniu | 4.06 .2023 | mgr inż. Krzysztof Stankiewicz | 205 
+11.30 -14.45 | Podstawy budowy maszyn i urządzeń 
+mechanicznych /wykład, ćwiczenia, laboratorium / | 
+wg dat: 5.03, 19.03, 2.04, 18.06. 2023 | 
+(1 godz. VIII zjazd) | mgr inż. Krzysztof Stankiewicz | 205 
+12.15 -14.30 | Profilaktyka pożarowa /konwersatorium, przedmiot 
+do wyboru/ | 
+wg dat: 2.04, 30.04, 14.05, 4.06 .2023 | mgr Jan Trofimiuk | 205 
+15.00 -16.30 | Ergonomia i projektowanie stanowisk pracy | 
+/laboratorium/ | dr Justyna Chwiećko | 2[/table]
+[/col]
+[/row]

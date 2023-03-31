@@ -1,0 +1,58 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | prowadzący | Sala | Przedmiot | prowadzący | Sala | UWAGI 
+8.00 -9.30 | Język angielski /ćwiczenia/ | 
+dr Małgorzata Danowska |  316 
+9.45 -11.15 | Metodologia pisania prac dyplomowych /wykład/ | 
+prof. WSE dr Bogumiła Powichrowska | 215 
+11.30 -13.00 | Rachunkowość podmiotów 
+finansów publicznych 
+/konwersatorium/ | 
+dr Dorota Hałaburda |  214 Marketing /konwersatorium/ | 
+dr Edyta Jurczak – Pejko | 215 
+13.15 -14.45 | Systemy fiskalne w UE 
+/konwersatorium/ | 
+dr Dorota Hałaburda | 214 Zarządzanie zasobami ludzkimi 
+/konwersatorium/ | 
+dr Edyta Jurczak – Pejko | 215 
+15.00 -16.30 | Statystyka opisowa /konwersatorium/ | 
+mgr Beata Wiśniewska | 215 
+ 17.10 -18.40 | 
+Rachunkowość finansowa 
+/konwersatorium/ | 
+dr Ewa Piekarska | 316 17.05 -18.35 | 
+Podstawy prawa gospodarczego 
+/konwersatorium/ | 
+dr Radosław Galicki | 
+(bez 11.03.2023) | 309 
+18.40 -20.10 | Powszechna historia państwa i prawa /konwersatorium, przedmiot do wyboru/ | 
+dr Radosław Galicki (bez 11.03.2023) | 309 
+ 
+Specjalności | Rachunkowość i finanse podmiotów 
+gospodarczych | Ekonomia dla menedżeró[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | prowadzący | Sala | Przedmiot | prowadzący | Sala | UWAGI 
+8.15 -10.30 | Dokumentacja kadrowa i płacowa 
+/konwersatorium/ | 
+mgr Małgorzata Choińska – 
+Furmaniak | 214 Systemy informacyjne w organizacji 
+/konwersatorium/ | 
+mgr inż. Mirosław Najbuk | 
+wg dat: 26.02, 12.03, 26.03,23.04.2023 | 
+w dniu 7.05.2023 w godz. 9.00 -10.30 | 302 
+10.45 -13.00 | Podstawy makroekonomii /wykład, ćwiczenia/ | 
+dr Anna Cudowska – Sojko | 209 
+13.15 -14.45 | Rozliczenia podatkowe | 
+/konwersatorium/ | 
+mgr Małgorzata Choińska – 
+Furmaniak |  214 Ekonomika i organizacja 
+przedsiębiorstwa /konwersatorium/ | 
+mgr Urszula Onichimiuk | 205 
+15.00 -16.30 | Obsługa systemu finansowo -księgowego SFINKS | 
+/konwersatorium, przedmiot do wyboru/ | 
+dr Ewa Piekarska | 3[/table]
+[/col]
+[/row]

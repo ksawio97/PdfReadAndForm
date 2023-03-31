@@ -1,0 +1,39 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.15 | Przetwarzanie sygnałów i technika 
+pomiarowa | 
+/wykład, laboratorium/ | prof. WSE dr hab. Waldemar 
+Rakowski | 312 
+11.30 -13.00 | Organizacja i zarządzanie | 
+/wykład/ | prof. WSE dr Bogumiła 
+Powichrowska | 215 
+13.15 -14.45 | Język angielski | 
+/ćwiczenia/ | dr Małgorzata Danowska | 316 
+15.00 -16.30 | Prawne aspekty prowadzenia 
+dokumentacji pracowniczej | 
+/konwersatorium, przedmiot do wyboru/ | dr Radosław Galicki | 214 
+16.45 -20.00 | Metodologia tworzenia projektów 
+informatycznych | 
+/wykład, ćwiczenia, laboratorium/ | 
+od III zjazdu | dr inż. Urszula Kużelewska | 302[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -10.15 | Grafika komputerowa | 
+/wykład, laboratorium/ | dr hab. Marek Parfieniuk | 312 
+10.20 -13.20 | Podstawy programowania w języku C# | 
+/wykład + laboratorium/ | mgr inż. Mirosław Najbuk | 305 
+13.25 -14.55 | Kubernetes od podstaw | 
+/konwersatorium, przedmiot do wyboru/ | mgr inż. Mirosław Najbuk | 305 
+15.00 -16.30 | Wprowadzenie do Dockera 
+/konwersatorium, przedmiot do wyboru/ | mgr inż. Mirosław Najbuk | 305 
+16.45 -20.00 | Programowanie obiektowe | 
+/wykład + laboratorium/ | 
+bez II zjazdu | Bartłomiej Dobrzyjałowski | 312 
+ 
+[/table]
+[/col]
+[/row]

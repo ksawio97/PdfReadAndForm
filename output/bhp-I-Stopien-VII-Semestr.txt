@@ -1,0 +1,7 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala UWAGI 
+9.00-11.15 | Seminarium dyplomowe | dr Justyna Chwiećko | 110 
+[/table]
+[/col]
+[/row]

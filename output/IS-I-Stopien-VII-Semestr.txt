@@ -1,0 +1,12 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+17.25 -18.55 | Seminarium dyplomowe | prof. WSE dr hab. Waldemar 
+Rakowski |  
+mgr inż. Mirosław Najbuk | 
+ 306 
+ 
+ 
+[/table]
+[/col]
+[/row]

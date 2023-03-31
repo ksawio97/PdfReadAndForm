@@ -1,0 +1,47 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -9.30 | Polityka społeczna i gospodarcza | 
+/wykład konwersatoryjny/ | dr Edyta Jurczak - Pejko | 209 
+9.45 -13.00 | Język angielski | 
+/ćwiczenia/ | 
+wg dat: 11.03, 22.04, 20.05.2023 | 
+w dniu 10.06.2023 r. w godz. 9.45 -11.15 | dr Małgorzata Danowska | 316 
+9.45 -13.00 | Komunikacja interpersonalna i 
+autoprezentacja /wykład konwersatoryjny, 
+przedmiot do wyboru/ | 
+wg dat: 25.02, 25.03, 6.05.2023 | 
+w dniu 10.06.2023 r. w godz. 11.30 -13.00 | dr Wojciech Wądołowski | 316 
+13.10 -15.25 | Rachunkowość | 
+/wykład, ćwiczenia/ | dr Ewa Piekarska | 316 
+15.30 -18.30 | Polityka społeczna i gospodarcza | 
+/wykład konwersatoryjny/ | 
+w dniu 11.03.2023 | dr Edyta Jurczak - Pejko | 309 
+15.30 -17.00 | Prawo cywilne i postępowanie w sprawach 
+cywilnych i gospodarczych | 
+/konwersatorium/ | 
+(bez 11.03.2023) | dr Radosław Galicki | 309 
+17.05 -18.35 | Prawo gospodarcze | 
+/wykład/ | 
+(bez 11.03.2023) | dr Radosław Galicki | 309 
+18.40 -20.10 | Powszechna historia państwa i prawa 
+/wykład/ | 
+(bez 11.03.2023) | dr Radosław Galicki | 309[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -9.30 | Podatki i opłaty lokalne /wykład 
+konwersatoryjny, przedmiot do wyboru/ | dr Dorota Hałaburda | 215 
+9.45 -12.00 | Polityka społeczna i gospodarcza | 
+/wykład konwersatoryjny/ | 
+w dniu 26.03.2023 | dr Edyta Jurczak - Pejko | 316 
+9.45 -11.15 | Filozofia prawa /konwersatorium/ | 
+(bez 26.03.2023) | dr Radosław Galicki | 316 
+11.30 -13.00 | Prawo pracy /konwersatorium/ | 
+(bez 26.03.2023) | dr Radosław Galicki | 316 
+13.15 -15.30 | Mikroekonomia | 
+/wykład, ćwiczenia/ | dr Anna Cudowska - Sojko | 2[/table]
+[/col]
+[/row]

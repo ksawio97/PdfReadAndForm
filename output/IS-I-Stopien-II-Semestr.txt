@@ -1,0 +1,36 @@
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Sobota | Przedmiot | Prowadzący | Sala | UWAGI 
+9.00-11.15 | Podstawy fizyki, elektrotechniki i 
+elektroniki |  
+/laboratorium/ | 
+wg dat: 4.03, 18.03, 1.04 , 29.04 .2023 | 
+w dniu 13 .05.2023 w godz. 9.45 -11.15 | mgr inż. Eugeniusz Czerniakiewicz | 201 
+11.30 -14.45 | Algorytmy i struktury danych |  
+/wykład , ćwiczenia , laboratorium/ | prof. WSE dr | hab. Waldemar 
+Rakowski | 312 
+15.00 -16.30 | Język angielski | 
+/ćwiczenia/ | dr Małgorzata Danowska |  316 
+16.45 -20.00 | Systemy operacyjne | 
+/wykład / | dr inż. Andrzej Kużelewski | 312[/table]
+[/col]
+[/row]
+[row][col size = 12 screen="sm"]
+[table width="100%" head="true"]
+Niedziela | Przedmiot | Prowadzący | Sala | UWAGI 
+8.00 -11.15 | Rachunek prawdopodobieństwa | 
+i statystyka |  
+/wykład , ćwiczenia/ | dr Urszula Ostaszewska | 316 
+11.20 -12.50 | Ochrona własności intelektualnej i etyka 
+zawodowa /wykład/ | mgr Urszula Onichimiuk | 316 
+13.00 -15.15 | Podstawy fizyki, elektrotechniki i 
+elektroniki |  
+/wykład , ćwiczenia/ | prof. WSE dr hab. | Waldemar 
+Rakowski | 312 
+15.20 -16.50 UX Design | 
+/konwersatorium, przedmiot do wyboru/ | mgr Przemysław Sienkiewicz | 312 
+17.00 -20.00 | Narzędzia procesu tworzenia 
+oprogramowania | 
+/wykład/ | mgr Przemysław Sienkiewicz | 312[/table]
+[/col]
+[/row]
